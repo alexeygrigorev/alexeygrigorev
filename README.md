@@ -9,3 +9,8 @@ My name is Alexey and I'm a Data Scientist living in Berlin.
 
 - [Machine Learning Bookcamp](http://bit.ly/mlbookcamp) (MEAP, in progress)
 - [Mastering Java for Data Science](https://www.amazon.com/Mastering-Java-Data-Science-production-ready-ebook/dp/B01JLBMHMM)
+
+
+## Communities
+
+- [DataTalks.Club](https://datatalks.club) - a place to talk about data!
