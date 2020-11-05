@@ -8,7 +8,7 @@ My name is Alexey and I'm a Data Scientist living in Berlin.
 
 ## Communities
 
-- [DataTalks.Club](https://datatalks.club) - a place to talk about data!
+- [DataTalks.Club](https://datatalks.club) - the place to talk about data!
 
 
 ## Books
