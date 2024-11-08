@@ -15,6 +15,12 @@ My name is Alexey and I'm a Data Scientist living in Berlin.
 
 - [DataTalks.Club](https://datatalks.club) - the place to talk about data!
 
+## Courses
+
+- [Machine Learning Zoomcamp](https://mlzoomcamp.com/)
+- [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
+- [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
+- [LLM Zoomcamp](https://github.com/DataTalksClub/llm-zoomcamp)
 
 ## Books
 
