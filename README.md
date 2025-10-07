@@ -11,6 +11,7 @@ My name is Alexey and I'm a Data Scientist living in Berlin.
 
 ## Courses
 
+- [AI Bootcamp: from RAG to Agents](https://maven.com/alexey-grigorev/from-rag-to-agents)
 - [Machine Learning Zoomcamp](https://mlzoomcamp.com/)
 - [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
