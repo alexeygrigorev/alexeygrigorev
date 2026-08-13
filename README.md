@@ -7,13 +7,17 @@ My name is Alexey and I'm a Data Scientist living in Berlin.
 
 ## Communities
 
-- [DataTalks.Club](https://datatalks.club) - the place to talk about data!
+- [DataTalks.Club](https://datatalks.club) - The place to talk about data!
 - [AI Shipping Labs](https://aishippinglabs.com/) - Turn AI ideas into real projects
+
+## Articles
+
+- [Alexey on Data](https://alexeyondata.substack.com/)
 
 ## Courses
 
-- [AI Hero: 7-Day AI Agents Crash-Course](https://aishippinglabs.com/courses/aihero)
 - [AI Bootcamp: from RAG to Agents](https://maven.com/alexey-grigorev/from-rag-to-agents)
+- [AI Hero: 7-Day AI Agents Crash-Course](https://aishippinglabs.com/courses/aihero)
 - [Machine Learning Zoomcamp](https://mlzoomcamp.com/)
 - [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
 - [MLOps Zoomcamp](https://github.com/DataTalksClub/mlops-zoomcamp)
@@ -24,7 +28,3 @@ My name is Alexey and I'm a Data Scientist living in Berlin.
 
 - [Machine Learning Bookcamp](http://bit.ly/mlbookcamp)
 - [Mastering Java for Data Science](https://www.amazon.com/Mastering-Java-Data-Science-production-ready-ebook/dp/B01JLBMHMM)
-
-## Blog
-
-- [Alexey on Data](https://alexeyondata.substack.com/)
