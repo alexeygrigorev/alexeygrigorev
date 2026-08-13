@@ -2,6 +2,8 @@ My name is Alexey and I'm a Data Scientist living in Berlin.
 
 [Support me on GitHub](https://github.com/sponsors/alexeygrigorev)
 
+[Read my newsletter on Substack](https://alexeyondata.substack.com/)
+
 <p align="center"> <a href="https://supportukrainenow.org/" target="_blank"> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1fa-1f1e6.svg" alt="Ukraine" width="50" height="50"/> </a>
 
 
