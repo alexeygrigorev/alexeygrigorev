@@ -2,17 +2,17 @@ My name is Alexey and I'm a Data Scientist living in Berlin.
 
 [Support me on GitHub](https://github.com/sponsors/alexeygrigorev)
 
-[Read my newsletter on Substack](https://alexeyondata.substack.com/)
-
 <p align="center"> <a href="https://supportukrainenow.org/" target="_blank"> <img src="https://images.emojiterra.com/google/noto-emoji/unicode-15/color/svg/1f1fa-1f1e6.svg" alt="Ukraine" width="50" height="50"/> </a>
 
 
 ## Communities
 
 - [DataTalks.Club](https://datatalks.club) - the place to talk about data!
+- [AI Shipping Labs](https://aishippinglabs.com/) - Turn AI ideas into real projects
 
 ## Courses
 
+- [AI Hero: 7-Day AI Agents Crash-Course](https://aishippinglabs.com/courses/aihero)
 - [AI Bootcamp: from RAG to Agents](https://maven.com/alexey-grigorev/from-rag-to-agents)
 - [Machine Learning Zoomcamp](https://mlzoomcamp.com/)
 - [Data Engineering Zoomcamp](https://github.com/DataTalksClub/data-engineering-zoomcamp)
@@ -24,3 +24,7 @@ My name is Alexey and I'm a Data Scientist living in Berlin.
 
 - [Machine Learning Bookcamp](http://bit.ly/mlbookcamp)
 - [Mastering Java for Data Science](https://www.amazon.com/Mastering-Java-Data-Science-production-ready-ebook/dp/B01JLBMHMM)
+
+## Blog
+
+- [Alexey on Data](https://alexeyondata.substack.com/)
