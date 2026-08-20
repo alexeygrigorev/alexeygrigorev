@@ -12,7 +12,7 @@ My name is Alexey and I'm a Data Scientist living in Berlin.
 
 ## Articles
 
-- [Alexey on Data](https://aishippingblog.com/)
+- [AI Shipping Blog](https://aishippingblog.com/)
 
 ## Courses
 
